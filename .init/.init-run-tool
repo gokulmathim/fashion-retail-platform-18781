@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/fashion-retail-platform-18781/garment_shop_frontend"
+}
