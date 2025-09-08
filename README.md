@@ -1,1 +1,3 @@
-# fashion-retail-platform-18781
+# Project Repository
+
+This is the initial README file for the project.
